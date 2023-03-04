@@ -21,6 +21,14 @@ This is a application that uses Scrolling view on a application widely used in a
 
 AsyncTask Background activity implementation.
 
+6.WhoWroteIt
+
+This Application asks user to input minimun characters and finds out which book,aurthor they want to search.
+
+7.WhoWroteItLoader
+
+This Application asks user to input minimun characters and finds out which book,aurthor they want to search.
+
 
 
 Note: All the Runtime Screenshots are in Screenshots folder.
