@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id authorText
+id bookInput
+id instructions
+id searchButton
+id titleText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Instructions
+string app_name
+string button_text
+string enter_a_book_name_or_a_part_of_a_book_name_or_just_some_text_from_a_book_to_find_the_full_book_title_and_who_wrote_the_book
+string enter_a_book_title
+string instructions
+string loading
+string no_network
+string no_results
+string no_search_term
+string search_books
+style Theme.WhoWroteIt
+xml backup_rules
+xml data_extraction_rules
