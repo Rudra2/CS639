@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launch.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launch.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launche.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launche.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launche.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launche.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launcher_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_new_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/new_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launch_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launch_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_new_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/new_round.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launche_foreground.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launche_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launcher.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launcher.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launch_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launch_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launch_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launch_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launch_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launch_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launch.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launch.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/xml_backup_rules.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launch_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launch_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launche_foreground.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launche_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launche.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launche.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launcher_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launcher_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launche_round.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launche_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_new_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/new_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_new_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/new_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launcher.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launcher.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launche_round.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launche_round.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launche_round.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launche_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_new_round.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/new_round.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launch.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launch.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launch_round.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launch_round.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_new_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/new_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launch_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launch_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_round.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_round.xml"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launche_foreground.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launche_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launcher_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_new_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/new_round.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launche.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launche.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launcher.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launcher.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launcher_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launcher_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launche_foreground.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launche_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launche.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launche.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_new_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/new_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launch_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launch_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launcher_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launch.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launch.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_new_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/new_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launcher_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_round.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launche.xml.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launche.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launch_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launch_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launch_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launch_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_new_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/new_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launche_foreground.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launche_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launcher_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_foreground.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launche_round.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launche_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_new_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/new_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launcher_round.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launch.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launch.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launche_round.xml.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launche_round.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launch_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launch_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launcher_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_launcher.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_launcher.png"
+    },
+    {
+        "merged": "android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_irc_launche_round.png.flat",
+        "source": "android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/irc_launche_round.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launcher.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launcher.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxhdpi_irc_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxhdpi/irc_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xhdpi_irc_launch.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xhdpi/irc_launch.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_irc_launcher.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/irc_launcher.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-mdpi_irc_launcher_foreground.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-mdpi/irc_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-merged_res-9:/mipmap-hdpi_irc_launcher_round.png.flat",
+        "source": "/Users/rud.../.gradle/daemon/7.5/android.example.conversionrudrachobev1.app-main-11:/mipmap-hdpi/irc_launcher_round.png"
+    }
+]
