@@ -1,0 +1,10 @@
+#Thu Mar 02 19:11:58 EST 2023
+base.2=/Users/rud.../AndroidStudioProjects/AsyncTask/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+path.2=11/classes.dex
+base.1=/Users/rud.../AndroidStudioProjects/AsyncTask/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/rud.../AndroidStudioProjects/AsyncTask/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

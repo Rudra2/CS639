@@ -1,0 +1,12 @@
+android.example.com.app-support-compat-28.0.0-0 /Users/rud.../.gradle/caches/transforms-3/222d3d96047e18a39d15dd7f96eb4869/transformed/support-compat-28.0.0/res
+android.example.com.app-coordinatorlayout-28.0.0-1 /Users/rud.../.gradle/caches/transforms-3/320d88fd95f589b47fc113114402e012/transformed/coordinatorlayout-28.0.0/res
+android.example.com.app-appcompat-v7-28.0.0-2 /Users/rud.../.gradle/caches/transforms-3/4a288c2e0b4e80163f908c9a00135d0d/transformed/appcompat-v7-28.0.0/res
+android.example.com.app-constraint-layout-2.0.4-3 /Users/rud.../.gradle/caches/transforms-3/503bb9d3dad4904de8d7f5b2caed4547/transformed/constraint-layout-2.0.4/res
+android.example.com.app-pngs-4 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/generated/res/pngs/debug
+android.example.com.app-resValues-5 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/generated/res/resValues/debug
+android.example.com.app-rs-6 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/generated/res/rs/debug
+android.example.com.app-packageDebugResources-7 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+android.example.com.app-packageDebugResources-8 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+android.example.com.app-merged_res-9 /Users/rud.../AndroidStudioProjects/ScrollingText/app/build/intermediates/merged_res/debug
+android.example.com.app-debug-10 /Users/rud.../AndroidStudioProjects/ScrollingText/app/src/debug/res
+android.example.com.app-main-11 /Users/rud.../AndroidStudioProjects/ScrollingText/app/src/main/res
